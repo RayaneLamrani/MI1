@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<HTML>
+	<HEAD>
+		<TITLE>Vilfoodia</TITLE>
+		<style type="text/css">
+		</style>
+		<link rel="stylesheet" type="text/css" href="../CSS/CSS.css">
+        
+        <div id="header">
+           
+            <A href="Startpagina.html"><img src="../Images/Vilfoodia.png"></A><br>
+            <a href="Startpagina.html"><h1>Welkom</h1></a>
+        </div>
+	</HEAD>
+		<BODY>
+			
+		</BODY>
+</HTML>	
